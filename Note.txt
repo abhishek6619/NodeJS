@@ -1,0 +1,14 @@
+# Introduction to NodeJs
+
+node --version
+npm --version
+npm init
+npm i -g nodemon
+npm install --save-dev nodemon
+npm uninstall nodemon
+npm uninstall express
+
+npm i express
+npm i @angular/cli
+
+npm install express --save
